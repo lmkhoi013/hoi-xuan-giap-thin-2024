@@ -589,7 +589,7 @@ p {
 #hero .col-left{
 	position: relative;
 	bottom: 350px;
-	right: 65%;
+	right: 64%;
 	width:	520px;
 }
 
@@ -597,7 +597,7 @@ p {
 	width: 220px;
 	position: absolute;
 	bottom: 280px;
-	left: 88%;
+	left: 87%;
 }
 
 #hero .col-hđ{
@@ -610,7 +610,7 @@ p {
 #hero .col-canh{
 	position: absolute;
 	width: 600px;
-	left: 66%;
+	left: 65.2%;
 	bottom: 440px;
 
 }
@@ -661,7 +661,7 @@ p {
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
-	width: 90%;
+	width: 88%;
 }
 #contact .contact-items {
 	/* max-width: 400px; */
